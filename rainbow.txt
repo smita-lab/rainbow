@@ -1,2 +1,4 @@
 The first color of rainbow is red.
 The second color of rainbow is orange.
+The third color of rainbow is yellow.
+
